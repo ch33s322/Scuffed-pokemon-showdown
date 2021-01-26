@@ -5,6 +5,7 @@ im making this because the school computers block pokemon showdown and im just t
 
 # lets start doing shit
 things im gonna need:
+https://nodejs.org/en/ - the latest node js version
 
 https://www.npmjs.com/package/canvas - for making a gui 
 
